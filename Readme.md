@@ -7,5 +7,4 @@
 ### Connect All Components As Showen In The Diagram
 ![](sceema.png)
 
-## Code Is Inside Code Folder In `.ino` File. Just Upload And Have Fun.#  
-#  
+## Code Is Inside Code Folder In `.ino` File. Just Upload And Have Fun.
